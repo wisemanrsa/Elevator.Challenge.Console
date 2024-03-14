@@ -3,11 +3,11 @@
 This repository contains a console-based elevator simulation application built using C# (.NET 6). The application allows users to interact with an elevator system, request elevator rides, and observe real-time updates of elevator statuses within a simulated building environment.
 
 ### Features
--Elevator Movement Simulation
--Simulate elevator movements, including loading and unloading passengers.
--User Interaction: Handle user input for requesting elevator rides.
--Real-time Status Updates: Display real-time updates of elevator statuses.
--Code Quality: Ensure code readability, maintainability, and adherence to industry best practices.
+- Elevator Movement Simulation
+- Simulate elevator movements, including loading and unloading passengers.
+- User Interaction: Handle user input for requesting elevator rides.
+- Real-time Status Updates: Display real-time updates of elevator statuses.
+- Code Quality: Ensure code readability, maintainability, and adherence to industry best practices.
 ### Installation
 To run the application locally, follow these steps:
 
